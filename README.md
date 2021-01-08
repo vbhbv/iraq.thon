@@ -11,7 +11,7 @@ Best User Bot To Manage Your Telegram Account
 
 <a href="https://t.me/CUCUB"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-<a href="https://youtu.be/HKLtmbiFi_Q"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://youtu.be/e4vINpXenbQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 ### Host SLNGO In Heroku
 
@@ -21,14 +21,4 @@ Best User Bot To Manage Your Telegram Account
 
 Termix codes for installation through Termex in Google Play for installing Source Iraq  :
 
-`sh
 
-git clone https://github.com/klanrali/iraq.thon
-
-cd iraq
-
-virtualenv -p /usr/bin/python3 venv
-
-. ./venv/bin/activate
-
-pip install -r requirements.txt
